@@ -1,0 +1,12 @@
+{
+  "name": "plasma-cash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/plasma-cash-2.git",
+  "author": "Li Xuanji <xuanji@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ethereum-waffle": "^2.0.12"
+  }
+}
